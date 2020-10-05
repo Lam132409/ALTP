@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d33528fa-e5e6-4d0e-8681-6f79f247b087" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AnTao/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnTao/class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnTao/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnTao/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-Ham-SNT/SNT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-LTVongLap01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-LTVongLap01/BT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-Them/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-Them/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL-Caro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL-Caro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL-Caro/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL-GameDonGian/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL-GameDonGian/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL-RatCat/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL-RatCat/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL-TV/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL-TV/js/TV.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL-TV/js/remote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLTDT-HinhChuNhat/HCN.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLTDT-NhietDo/NhietDo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVL01/BT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVL01/BT2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVL01/BT3-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVL01/BT4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVL01/BT6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVL01/BT7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVL01/BT8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BangCuuChuong/BangCuuChuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CanNang/CanNang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemSoUoc/DemUoc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemUoc/Dem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemUoc/TinhUoc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DenPin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoanSo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoanSo/DoanSo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoanSo/qwef.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Faking textarea on typing/Fake_text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FeetMeters/FeetMeters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci/Fionacci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GiaiThua/GiaiThua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng02/BT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng02/BT2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng02/BT3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng02/BT4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng02/BT5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-Mảng02/BT6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam02/BT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam02/BT2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam02/BT3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MT_DonGian/MT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/aeff.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuanLySanPham/QLSP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDHamCoSangCuaMang/BT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDHamCoSangCuaMang/BT2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDHamCoSangCuaMang/BT3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoNguyenTo/SoNguyenTo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoUoc/Dem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-Mang/245.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-Mang/Caro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-Mang/DaoNguocPhanTu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-Mang/GiaTriLonNhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-Mang/TaoVaThaoTacVoiMang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-Mang/TimGiaTri.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-Tạo và gọi hàm/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-VongLapFor/BT2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-VongLapFor/TH-For.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-VongLapWhile/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-XayDungLop/TH1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-XayDungLop/TH2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-XayDungLop/TH3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Table-NangCao/CoVua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Table-NangCao/Lich.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicTacToe/TicTacToe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TienLai/TienLai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuDien 23-09/TuDien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TuDien/TuDien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VeTamGiac/VeHinhChuNhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VeTamGiac/VeTamGiac.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game puzzle/Game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game/game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/asd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/werg.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="ProjectId" id="1iRPadLrR0z3qG7XEI6FCeRfaS8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d33528fa-e5e6-4d0e-8681-6f79f247b087" name="Default Changelist" comment="" />
+      <created>1601867496277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601867496277</updated>
+      <workItem from="1601867497977" duration="3855000" />
+      <workItem from="1601878375379" duration="9087000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
