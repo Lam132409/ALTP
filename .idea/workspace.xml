@@ -11,107 +11,110 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d33528fa-e5e6-4d0e-8681-6f79f247b087" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AnTao/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AnTao/class.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AnTao/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AnTao/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BT-Ham-SNT/SNT.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BT-LTVongLap01/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BT-LTVongLap01/BT1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BT-Them/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BT-Them/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTL-Caro/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTL-Caro/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTL-Caro/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTL-GameDonGian/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTL-GameDonGian/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTL-RatCat/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTL-RatCat/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTL-TV/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTL-TV/js/TV.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTL-TV/js/remote.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTLTDT-HinhChuNhat/HCN.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTLTDT-NhietDo/NhietDo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVL01/BT1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVL01/BT2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVL01/BT3-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVL01/BT4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVL01/BT6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVL01/BT7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BTVL01/BT8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BangCuuChuong/BangCuuChuong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CanNang/CanNang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemSoUoc/DemUoc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemUoc/Dem.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemUoc/TinhUoc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DenPin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DoanSo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DoanSo/DoanSo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DoanSo/qwef.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Faking textarea on typing/Fake_text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FeetMeters/FeetMeters.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fibonacci/Fionacci.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GiaiThua/GiaiThua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng01/BT9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng02/BT1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng02/BT2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng02/BT3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng02/BT4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng02/BT5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-Mảng02/BT6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam02/BT1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam02/BT2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam02/BT3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MT_DonGian/MT.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mobile/aeff.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mobile/mobile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QuanLySanPham/QLSP.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDHamCoSangCuaMang/BT1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDHamCoSangCuaMang/BT2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDHamCoSangCuaMang/BT3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SoNguyenTo/SoNguyenTo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SoUoc/Dem.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-Mang/245.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-Mang/Caro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-Mang/DaoNguocPhanTu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-Mang/GiaTriLonNhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-Mang/TaoVaThaoTacVoiMang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-Mang/TimGiaTri.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-Tạo và gọi hàm/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-VongLapFor/BT2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-VongLapFor/TH-For.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-VongLapWhile/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-XayDungLop/TH1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-XayDungLop/TH2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TH-XayDungLop/TH3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Table-NangCao/CoVua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Table-NangCao/Lich.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/TicTacToe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TienLai/TienLai.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TuDien 23-09/TuDien.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TuDien/TuDien.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeTamGiac/VeHinhChuNhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeTamGiac/VeTamGiac.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../game puzzle/Game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../game/game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/asd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/werg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Quiz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnTao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AnTao/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnTao/class.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AnTao/class.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnTao/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AnTao/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnTao/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AnTao/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnTao/sdfg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT-Ham-SNT/SNT.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BT-Ham-SNT/SNT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT-LTVongLap01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BT-LTVongLap01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT-LTVongLap01/BT1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BT-LTVongLap01/BT1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT-Them/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BT-Them/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT-Them/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BT-Them/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL-Caro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL-Caro/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL-Caro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL-Caro/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL-Caro/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL-Caro/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL-GameDonGian/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL-GameDonGian/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL-GameDonGian/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL-GameDonGian/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL-RatCat/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL-RatCat/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL-RatCat/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL-RatCat/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL-TV/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL-TV/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL-TV/js/TV.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL-TV/js/TV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL-TV/js/remote.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL-TV/js/remote.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTLTDT-HinhChuNhat/HCN.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTLTDT-HinhChuNhat/HCN.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTLTDT-NhietDo/NhietDo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTLTDT-NhietDo/NhietDo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVL01/BT1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVL01/BT1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVL01/BT2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVL01/BT2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVL01/BT3-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVL01/BT3-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVL01/BT4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVL01/BT4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVL01/BT6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVL01/BT6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVL01/BT7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVL01/BT7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVL01/BT8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVL01/BT8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BanPhim/tet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BangCuuChuong/BangCuuChuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BangCuuChuong/BangCuuChuong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CanNang/CanNang.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CanNang/CanNang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemSoUoc/DemUoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DemSoUoc/DemUoc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemUoc/Dem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DemUoc/Dem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemUoc/TinhUoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DemUoc/TinhUoc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DenPin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DenPin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoanSo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DoanSo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoanSo/DoanSo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DoanSo/DoanSo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoanSo/qwef.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DoanSo/qwef.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Faking textarea on typing/Fake_text.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Faking textarea on typing/Fake_text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FeetMeters/FeetMeters.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FeetMeters/FeetMeters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibonacci/Fionacci.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fibonacci/Fionacci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GiaiThua/GiaiThua.html" beforeDir="false" afterPath="$PROJECT_DIR$/../GiaiThua/GiaiThua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng01/BT1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng01/BT1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng01/BT2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng01/BT2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng01/BT3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng01/BT3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng01/BT4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng01/BT4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng01/BT5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng01/BT5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng01/BT6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng01/BT6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng01/BT7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng01/BT7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng01/BT8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng01/BT8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng01/BT9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng01/BT9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng02/BT1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng02/BT1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng02/BT2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng02/BT2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng02/BT3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng02/BT3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng02/BT4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng02/BT4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng02/BT5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng02/BT5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-Mảng02/BT6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-Mảng02/BT6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam/BT5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-TaoVaSuDungHam02/BT1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam02/BT1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-TaoVaSuDungHam02/BT2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam02/BT2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT-TaoVaSuDungHam02/BT3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LT-TaoVaSuDungHam02/BT3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MT_DonGian/MT.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MT_DonGian/MT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mobile/mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Mobile/mobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLySanPham/QLSP.html" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLySanPham/QLSP.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDHamCoSangCuaMang/BT1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SDHamCoSangCuaMang/BT1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDHamCoSangCuaMang/BT2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SDHamCoSangCuaMang/BT2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDHamCoSangCuaMang/BT3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SDHamCoSangCuaMang/BT3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoNguyenTo/SoNguyenTo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SoNguyenTo/SoNguyenTo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoUoc/Dem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SoUoc/Dem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-Mang/245.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-Mang/245.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-Mang/Caro.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-Mang/Caro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-Mang/DaoNguocPhanTu.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-Mang/DaoNguocPhanTu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-Mang/GiaTriLonNhat.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-Mang/GiaTriLonNhat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-Mang/TaoVaThaoTacVoiMang.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-Mang/TaoVaThaoTacVoiMang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-Mang/TimGiaTri.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-Mang/TimGiaTri.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-Tạo và gọi hàm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-Tạo và gọi hàm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-VongLapFor/BT2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-VongLapFor/BT2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-VongLapFor/TH-For.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-VongLapFor/TH-For.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-VongLapWhile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-VongLapWhile/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-XayDungLop/TH1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-XayDungLop/TH1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-XayDungLop/TH2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-XayDungLop/TH2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-XayDungLop/TH3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-XayDungLop/TH3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Table-NangCao/CoVua.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Table-NangCao/CoVua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Table-NangCao/Lich.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Table-NangCao/Lich.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/TicTacToe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/TicTacToe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TienLai/TienLai.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TienLai/TienLai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDien 23-09/TuDien.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TuDien 23-09/TuDien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TuDien/TuDien.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TuDien/TuDien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeTamGiac/VeHinhChuNhat.html" beforeDir="false" afterPath="$PROJECT_DIR$/../VeTamGiac/VeHinhChuNhat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VeTamGiac/VeTamGiac.html" beforeDir="false" afterPath="$PROJECT_DIR$/../VeTamGiac/VeTamGiac.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game puzzle/Game.html" beforeDir="false" afterPath="$PROJECT_DIR$/../game puzzle/Game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/game.html" beforeDir="false" afterPath="$PROJECT_DIR$/../game/game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/asd.html" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/asd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/werg.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/werg.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +130,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iRPadLrR0z3qG7XEI6FCeRfaS8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -145,6 +148,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -156,7 +160,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601867496277</updated>
       <workItem from="1601867497977" duration="3855000" />
-      <workItem from="1601878375379" duration="9087000" />
+      <workItem from="1601878375379" duration="9391000" />
+      <workItem from="1601945260765" duration="3506000" />
     </task>
     <servers />
   </component>
